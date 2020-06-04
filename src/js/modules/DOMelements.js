@@ -1,4 +1,5 @@
-export const elements = {
+const elements = {
   htmlTag: document.querySelector('html'),
-  aTags: document.querySelectorAll('a'),
 };
+
+export default elements

@@ -1,7 +1,9 @@
-// 1. Selectors
-import { elements } from './DOMelements';
+// 1. Imports
+import elements from './DOMelements';
 
+// 2. Selectors
 const { htmlTag } = elements;
-// 2. Actions
 
-// 3. Events
+// 3. Actions
+
+// 4. Events

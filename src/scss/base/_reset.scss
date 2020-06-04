@@ -9,11 +9,10 @@ html {
     padding: 0;
     box-sizing: border-box;
     font-size: 62.5%;
-    background-color: $black;
     outline: none;
 }
 
 ::selection {
-    background-color: $black;
-    color: $white;
+    background-color: var(--color-primary);
+    color: var(--color-secondary);
 }
