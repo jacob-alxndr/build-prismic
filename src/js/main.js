@@ -1,5 +1,5 @@
 // 1. Import JS files
-import test from './modules/test';
+import prismicAPI from "./modules/prismicAPI";
 
 // 2. Import SCSS file
-import '../scss/main.scss';
+import "../scss/main.scss";
